@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Huda Ahmed 👋
 
-<!--
-**Huda-nim/Huda-nim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student | Aspiring Full-Stack Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Science student at the University of Hargeisa, passionate about learning technology, building useful applications, and improving my programming skills.
+
+### 🚀 About Me
+- 🎓 Computer Science Student
+- 🌍 Based in Hargeisa, Somaliland
+- 💻 Currently learning Web Development
+- 🌱 Exploring Frontend, Backend, and Databases
+- 🎯 My goal is to build useful projects that solve real problems
+
+### 🛠️ Technologies I'm Learning
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- SQLite
+- Git & GitHub
+
+### 📂 My Projects
+
+**Student Management System**
+
+A web application for registering, searching, editing, and deleting student records.
+
+Built with HTML, CSS, JavaScript, Node.js, and SQLite.
+
+### 🌱 My Journey
+
+Learning step by step, building projects, and growing as a developer.
+
+Thanks for visiting my profile! 💙
