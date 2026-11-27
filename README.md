@@ -13,6 +13,13 @@ I'm a Computer Science student at the University of Hargeisa, passionate about l
 - 🌱 Exploring Frontend, Backend, and Databases
 - 🎯 My goal is to build useful projects that solve real problems
 
+
+🌐 Connect with Me
+📧 Email: Send me an email
+📸 Instagram: @huda_nim
+
+
+
 ### 🛠️ Technologies I'm Learning
 
 - HTML
